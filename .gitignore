@@ -1,0 +1,10 @@
+#debug
+Debug/Exe/
+Debug/List/
+Debug/Obj/
+
+#settings
+settings/
+
+*.dep
+*.ewt
